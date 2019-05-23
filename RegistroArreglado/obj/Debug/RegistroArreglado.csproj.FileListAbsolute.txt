@@ -1,0 +1,16 @@
+D:\Visual Studio\Source\repos\RegistroArreglado\bin\Debug\RegistroArreglado.exe.config
+D:\Visual Studio\Source\repos\RegistroArreglado\bin\Debug\RegistroArreglado.exe
+D:\Visual Studio\Source\repos\RegistroArreglado\bin\Debug\RegistroArreglado.pdb
+D:\Visual Studio\Source\repos\RegistroArreglado\bin\Debug\EntityFramework.dll
+D:\Visual Studio\Source\repos\RegistroArreglado\bin\Debug\EntityFramework.SqlServer.dll
+D:\Visual Studio\Source\repos\RegistroArreglado\bin\Debug\EntityFramework.xml
+D:\Visual Studio\Source\repos\RegistroArreglado\bin\Debug\EntityFramework.SqlServer.xml
+D:\Visual Studio\Source\repos\RegistroArreglado\obj\Debug\RegistroArreglado.csprojAssemblyReference.cache
+D:\Visual Studio\Source\repos\RegistroArreglado\obj\Debug\RegistroArreglado.Properties.Resources.resources
+D:\Visual Studio\Source\repos\RegistroArreglado\obj\Debug\RegistroArreglado.csproj.GenerateResource.cache
+D:\Visual Studio\Source\repos\RegistroArreglado\obj\Debug\RegistroArreglado.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Source\repos\RegistroArreglado\obj\Debug\RegistroArreglado.csproj.CopyComplete
+D:\Visual Studio\Source\repos\RegistroArreglado\obj\Debug\RegistroArreglado.exe
+D:\Visual Studio\Source\repos\RegistroArreglado\obj\Debug\RegistroArreglado.pdb
+D:\Visual Studio\Source\repos\RegistroArreglado\obj\Debug\RegistroArreglado.UI.Registros.Registro.resources
+D:\Visual Studio\Source\repos\RegistroArreglado\obj\Debug\RegistroArreglado.VentanaPrincipal.resources
